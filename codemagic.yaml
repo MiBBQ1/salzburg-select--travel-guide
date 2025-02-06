@@ -18,7 +18,7 @@ workflows:
         BUNDLE_ID: "com.Vkjgogh.Kfnvhth"
         XCODE_WORKSPACE: "Salzburg Select  Travel Guide.xcodeproj"
         XCODE_SCHEME: "Salzburg Select  Travel Guide"
-        APP_STORE_APPLE_ID: 6741475841
+        APP_STORE_APPLE_ID: 6740919448
 
       xcode: latest
 
