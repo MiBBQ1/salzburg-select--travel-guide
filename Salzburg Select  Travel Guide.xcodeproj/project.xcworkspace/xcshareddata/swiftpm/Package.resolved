@@ -1,0 +1,33 @@
+{
+  "originHash" : "7f771e1b8ff5fbd8757ba1465eaaf3cc89abeda56c14ef9ca070574fc0b718c3",
+  "pins" : [
+    {
+      "identity" : "appsflyerframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppsFlyerSDK/AppsFlyerFramework",
+      "state" : {
+        "revision" : "c91c3a46f9352891728cfc4583c209d683a999f9",
+        "version" : "6.16.0"
+      }
+    },
+    {
+      "identity" : "onesignal-xcframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OneSignal/OneSignal-XCFramework",
+      "state" : {
+        "revision" : "3bc37b379581442be7d6337d01f5c7e5d6a4cdde",
+        "version" : "5.2.9"
+      }
+    },
+    {
+      "identity" : "swifter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/httpswift/swifter",
+      "state" : {
+        "revision" : "9483a5d459b45c3ffd059f7b55f9638e268632fd",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
